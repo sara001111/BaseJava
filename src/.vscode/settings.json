@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\SARA\\Desktop\\sara\\new\\Nueva carpeta (4)\\Nueva carpeta (2)\\mysql-connector-java-commercial-5.1.17\\mysql-connector-java-commercial-5.1.17-bin.jar"
+    ]
+}
